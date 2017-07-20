@@ -5,7 +5,7 @@
 <li>+359 is the code for Bulgarian numbers;</li>
 <li>The next 2 digits are the code of the operator, where the 3 operators have their own combinations- 87, 88, 89;</li>
 <li>The next digit is in range from 2 to 9;</li>
-<li>The last 6 digits are in range from 0 to 9.<li>
+<li>The last 6 digits are in range from 0 to 9.</li>
 </ul>
 
 <p>Equivalents to +359878123456 are:</p>
@@ -23,7 +23,7 @@
 <li>Delete a pair by name;</li>
 <li>Access to phone number by name;</li>
 <li>Print all pairs sorted by name.</li>
-</u>
+</ul>
 
 <p><b>By realizing the class, take into account that the most used operation will be Print.</b></p>
 
